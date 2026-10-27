@@ -1,0 +1,6 @@
+{
+  "name": "Taskora — Smart Assignment Deadline Manager",
+  "description": "Student task management system with dashboard, assignment tracking, subject management, and Spring Boot REST API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
